@@ -1,14 +1,10 @@
-# Hello, I'm Jhonatan 👋 
+# Hello, I'm Naylor 👋 
 
 ### About me
 
-I'm a developer focused on **[i'm , e.g. Back-end with Python and Go]**. 
+I'm a developer focused on **[i'm , e.g. Back-end with C, C++ and Go]**. 
 
-* 🔭 I'm currently working on: **[Your Current Project or Work]**
-* 🌱 I'm currently learning: **[Technology/Language]**
-* 💬 Ask me about: **[Subjects you master, e.g., JavaScript, React, REST APIs]**
-* 📫 How to find me: **[Your Email or LinkedIn]**
-* ⚡ Fun fact: **[Fun fact about you]**
+* 🔭 I'm currently working on: **["github.com/naylor-lab/Lain-Iwakura"]**
 
 ### Estatísticas do GitHub
 
